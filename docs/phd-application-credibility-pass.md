@@ -33,11 +33,11 @@ Core narrative:
 
 ### Degree correction
 
-Replace "Master of Teaching" with the **exact transcript-awarded degree title**:
+Catherine's master's degree formal title is:
 
-> Master of Children’s Education, University of South Australia
+> Master of Teaching
 
-Do not paraphrase degree names anywhere on the PhD-facing site.
+Use **Master of Teaching** exactly wherever the master's qualification appears on the PhD-facing site. Do not paraphrase degree names or replace them with another award title.
 
 ## 3. Homepage — revised information architecture
 
@@ -161,7 +161,7 @@ I am developing a research programme around how people encounter, interpret and 
 
 Use exact formal titles only.
 
-- **Master of Children’s Education**, University of South Australia
+- **Master of Teaching** — use the exact awarding institution and dates from Catherine’s formal documents
 - **Bachelor's degree in Music Education** — insert exact institution and formal award title from transcript
 - **Current research-methods training:** University of Aberdeen, PU5027 Fundamentals of Research Design (Online), 2026–27 — in progress
 
@@ -370,7 +370,7 @@ Never write Level C as Level A.
 ## 10. Implementation order
 
 ### P0 — credibility corrections
-1. Correct master's degree title.
+1. Verify and preserve the formal master’s degree title: **Master of Teaching**.
 2. Remove "Principal Investigator" and equivalent unsupported PI language.
 3. Replace cohort/intervention/A-B-test/trial/outcome language where formal research definitions are not satisfied.
 4. Remove "peer-reviewed" from unpublished/unreviewed outputs.
